@@ -3,13 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajmohanreddy774" alt="rajmohanreddy774" /></a> </p>
 
-- Masai School [ShopperStop](https://unit4-project-harsh.netlify.app/)
 
-- 🌱 I’m currently learning **ReactJS, NodeJS**
+
+- 🌱 I’m currently learning **MERN in Masai School**
 
 - 📫 How to reach me **rajmohanijs@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](Resume) 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajmohanreddy774" alt="rajmohanreddy774" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
