@@ -1,4 +1,4 @@
-### Hi there I am Raj Mohan M 👋
+
 <h1 align="center">Hi 👋, I'm Raj Mohan M</h1>
 <h3 align="center">An Aspiring Full Stack Web Developer currently learning ReactJS in masai School</h3>
 
