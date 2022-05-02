@@ -51,19 +51,11 @@
   
    <div align="center">  
      
-  <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajmohanreddy774
-&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" width=500 /></p> 
  
-   
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajmohanreddy774&show_icons=true&locale=en&layout=compact" alt="rajmohanreddy774" /></p>
 
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajmohanreddy774
-&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width=500/></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajmohanreddy774&show_icons=true&locale=en" alt="rajmohanreddy774" /></p>
  
-   
-   
-</p>  
      
      
      
