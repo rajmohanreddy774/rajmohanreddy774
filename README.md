@@ -28,14 +28,8 @@
    
    
    
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajmohanreddy774
-&show_icons=true&locale=en&layout=compact" alt="rajmohanreddy774
-" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajmohanreddy774&show_icons=true&locale=en&layout=compact" alt="rajmohanreddy774" /></p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rajmohanreddy774
-&show_icons=true&locale=en" alt="rajmohanreddy774
-" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajmohanreddy774&show_icons=true&locale=en" alt="rajmohanreddy774" /></p>
 
-<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajmohanreddy774
-&" alt="rajmohanreddy774
-" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajmohanreddy774&" alt="rajmohanreddy774" /></p>
