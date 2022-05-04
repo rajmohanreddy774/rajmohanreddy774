@@ -14,7 +14,7 @@
 - 📫 How to reach me **rajmohanijs@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/drive/u/0/my-drive
-- <h3 href="https://www-raj-mohan-portfolio-com-9y1a.vercel.app/">My Portfolio</h3>
+- <a href="https://www-raj-mohan-portfolio-com-9y1a.vercel.app/" target="blank" alt="https://www-raj-mohan-portfolio-com-9y1a.vercel.app/">My Portfolio</a>
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajmohanreddy774&label=Profile%20views&color=0e75b6&style=flat" alt="rajmohanreddy774" /> </p>
 
