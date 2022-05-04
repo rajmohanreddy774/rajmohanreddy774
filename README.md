@@ -1,70 +1,41 @@
-### Hi there 👋
-<h1>I am Raj Mohan M<h1>
+ <h1 align="center">Hi 👋, I'm Raj Mohan M</h1>
+<h3 align="center">A passionate Full Stack Web developer</h3>
+<p align="center">I am learning Full Stack Web Development Using MERN stack. I have completed my graduation in mechanical engineering.After Graduation I slowly got into technology and saw many opportunities in the software field so I decided to make a career in web development. My expertise lies in Javascript, HTML, and Node.js.</p></br>
+
+<img src="https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png?quality=90" />
+
   
-  <h3>About me.<h3>
-<p>An aspiring Full-stack web developer specializing in MERN stack with good communication and collaborative skills, passionate about coding and learning new technologies. Looking forward to working as a Software developer engineer.<p>
+
+
+
+
+- 🌱 I’m currently learning **React.js**
+
+- 📫 How to reach me **rajmohanijs@gmail.com**
+
+- 📄 Know about my experiences https://drive.google.com/drive/u/0/my-drive
+  
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajmohanreddy774&label=Profile%20views&color=0e75b6&style=flat" alt="rajmohanreddy774" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajmohanreddy774" alt="rajmohanreddy774" /></a> </p>
- <br>
-<a href="https://www.linkedin.com/in/raj-mohan-m-9753ab1aa/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" />
-  </a>
 
-  
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<br>
-    <p>Tech Stack</p>
-  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/raj-mohan-m-9753ab1aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raj-mohan-m-9753ab1aa/" height="30" width="40" /></a>
 </p>
-    <a href="https://www.linkedin.com/in/raj-mohan-m-9753ab1aa/ target="blank">
-<div onclick="parent.location='https://www.linkedin.com/in/raj-mohan-m-9753ab1aa/'" align="center"><p>Let's Connect !!</p><img   src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"></div>
-  </a>
+   <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+   
+   
+   
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajmohanreddy774
+&show_icons=true&locale=en&layout=compact" alt="rajmohanreddy774
+" /></p>
 
-<div align="center">
-<!-- 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh244007&show_icons=true&theme=radical"> -->
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rajmohanreddy774
+&show_icons=true&locale=en" alt="rajmohanreddy774
+" /></p>
 
-  
-   <div align="center">  
-     
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajmohanreddy774&show_icons=true&locale=en&layout=compact" alt="rajmohanreddy774" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajmohanreddy774&show_icons=true&locale=en" alt="rajmohanreddy774" /></p>
- 
-     
-     
-     
-  
-  <br>
-
-<a href="https://www.linkedin.com/in/raj-mohan-m-9753ab1aa/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" />
-  </a>
-
-  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
-
+<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajmohanreddy774
+&" alt="rajmohanreddy774
+" /></p>
