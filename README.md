@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Raj Mohan M</h1>
 <h3 align="center">A passionate Full Stack Web developer</h3>
-<p align="center">I am learning Full Stack Web Development Using MERN stack. I have completed my graduation in mechanical engineering.After Graduation I slowly got into technology and saw many opportunities in the software field so I decided to make a career in web development. My expertise lies in Javascript, HTML, and Node.js.</p></br>
+<p align="center">I am learning Full Stack Web Development Using MERN stack. I have completed my graduation in Information Technology (B-Tech).After Graduation I  decided to make a career in web development. My expertise lies in Javascript, HTML, and Node.js.</p></br>
 
 <img src="https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png?quality=90" />
 
